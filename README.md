@@ -21,7 +21,7 @@
 
 <h3 align="center">✏️ Latest Post on Tech Blog ✏️</h3>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsuhan1)](https://velog.io/@minsuhan1)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsuhan1&color=dark)](https://velog.io/@minsuhan1)
 
 </div>
 
