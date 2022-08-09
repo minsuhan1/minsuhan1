@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
 </p>
  
-<br>
+___
 <div align="center" style="text-align: center">  
 
 <h3 align="center">✏️ Latest Post on Tech Blog ✏️</h3>
@@ -26,7 +26,7 @@
 
 </div>
 
-<br>
+___
 <h3 align="center"> 👋 Contact Me 👋</h3>
 <p align="center">
   <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minsuhan1"/></a>&nbsp
