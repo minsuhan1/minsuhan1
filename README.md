@@ -1,5 +1,5 @@
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center"> Techs that I've learned </p>
 <p align="center">
@@ -20,14 +20,14 @@
 ___
 <div align="center" style="text-align: center">  
 
-<h3 align="center">✏️ Latest Post on Tech Blog ✏️</h3>
+<h3 align="center">✏️ Latest Post on Tech Blog </h3>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsuhan1&color=dark)](https://velog.io/@minsuhan1)
 
 </div>
 
 ___
-<h3 align="center"> 👋 Contact Me 👋</h3>
+<h3 align="center"> 👋 Contact Me</h3>
 <p align="center">
   <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minsuhan1"/></a>&nbsp
   <a href="https://www.instagram.com/____ms.han____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/____ms.han____/"/></a>&nbsp
