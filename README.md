@@ -42,7 +42,7 @@ ___
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" width=70% height=70% />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width=75% height=75% />
 </div>
 
 <!--
