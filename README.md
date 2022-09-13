@@ -41,8 +41,9 @@ ___
 
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green.svg" width=70% height=70% />
+</div>
 
 <!--
 **minsuhan1/minsuhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
