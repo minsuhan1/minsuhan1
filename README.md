@@ -1,4 +1,6 @@
+<p align="center"><strong> Hi there! I'm interested in and studying Front-end web development. </strong></p>
 
+___
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center"> My main skills are... </p>
