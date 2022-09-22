@@ -35,7 +35,7 @@ ___
 ___
 <div align="center">
 
-| <div align="center" style="text-align: center"><h3 align="center">✏️ Latest Post on Tech Blog </h3>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsuhan1&color=dark)](https://velog.io/@minsuhan1)</div><div> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monologue96)](https://solved.ac/monologue96/) | 
+| ![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuhan1&theme=dark&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monologue96)](https://solved.ac/monologue96/) | 
 |-|-|
 
 </div>
