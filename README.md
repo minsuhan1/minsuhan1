@@ -33,11 +33,10 @@ ___
 </p>
  
 ___
-<div align="center" style="text-align: center">  
+<div align="center">
 
-<h3 align="center">✏️ Latest Post on Tech Blog </h3>
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsuhan1&color=dark)](https://velog.io/@minsuhan1)
+| <div align="center" style="text-align: center"><h3 align="center">✏️ Latest Post on Tech Blog </h3>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minsuhan1&color=dark)](https://velog.io/@minsuhan1)</div><div> | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monologue96)](https://solved.ac/monologue96/) | 
+|-|-|
 
 </div>
 
