@@ -1,6 +1,4 @@
-<p align="center"><strong> Hi there! I'm interested in and studying Front-end web development. </strong></p>
 
-___
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center"> My main skills are... </p>
@@ -34,18 +32,23 @@ ___
  
 ___
 <div align="center">
-
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuhan1&theme=dark&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monologue96)](https://solved.ac/monologue96/) | 
-|-|-|
+<p align="center">
+<a href="https://github.com/NadudAn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minsuhan1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minsuhan1&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 </div>
 
-<!--
+
 <p align="center">
   <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minsuhan1"/></a>&nbsp
   <a href="https://www.instagram.com/____ms.han____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/____ms.han____/"/></a>&nbsp
   <a href="mailto:iamminsuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamminsuhan@gmail.com"/>
   </a>
+  <a href="https://solved.ac/monologue96"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monologue96"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsuhan1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <br>
 
