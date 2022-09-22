@@ -35,7 +35,7 @@ ___
 ___
 <div align="center">
 
-| ![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuhan1&theme=dark&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monologue96)](https://solved.ac/monologue96/) | 
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuhan1&theme=dark&show_icons=true) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monologue96)](https://solved.ac/monologue96/) | 
 |-|-|
 
 </div>
