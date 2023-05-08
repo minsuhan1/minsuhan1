@@ -37,7 +37,6 @@ ___
 <p align="center">
   <a href="https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"/></a>&nbsp
   <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minsuhan1"/></a>&nbsp
-  <a href="https://www.instagram.com/____ms.han____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/____ms.han____/"/></a>&nbsp
   <a href="mailto:iamminsuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamminsuhan@gmail.com"/>
   </a>
   <a href="https://solved.ac/monologue96"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monologue96"/></a>
