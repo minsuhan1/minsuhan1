@@ -15,19 +15,7 @@
 <p align="center"> I have experience using... </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass" height="35px"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" height="35px"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" height="35px"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" height="35px"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" height="35px"/>
+    <img src="https://skillicons.dev/icons?i=sass,java,py,flutter,firebase" height="35px"/>
   </a>
 </p>
  
