@@ -9,7 +9,7 @@
 <p align="center"> I have experience using... </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,java,py,flutter,firebase" height="35px"/>
+    <img src="https://skillicons.dev/icons?i=sass,java,py,flutter,firebase,redux" height="35px"/>
   </a>
 </p>
  
