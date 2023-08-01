@@ -2,7 +2,7 @@
 <p align="center"> My main skills are... </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
   </a>
 </p>
 
@@ -26,11 +26,10 @@ ___
 
 
 <p align="center">
-  <a href="https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"/></a>&nbsp
-  <a href="https://accurate-bank-c77.notion.site/77d0641302334acaa3937ca73b1482b7?v=38c9fd56abdf4bef97dde7d6a3925740"><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"/></a>&nbsp
-  <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minsuhan1"/></a>&nbsp
-  <a href="mailto:iamminsuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamminsuhan@gmail.com"/>
-  </a>
+  <a href="https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=badge&logo=Notion&logoColor=black"/></a>
+  <a href="https://accurate-bank-c77.notion.site/77d0641302334acaa3937ca73b1482b7?v=38c9fd56abdf4bef97dde7d6a3925740"><img src="https://img.shields.io/badge/TIL-ffffff?style=badge&logo=Notion&logoColor=black"/></a>
+  <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/minsuhan.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
+  <a href="mailto:iamminsuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://solved.ac/monologue96"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monologue96"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsuhan1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
