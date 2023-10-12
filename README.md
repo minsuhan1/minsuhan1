@@ -2,14 +2,14 @@
 <p align="center"> My main skills are... </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux"/>
   </a>
 </p>
 
 <p align="center"> I have experience using... </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,styledcomponents,sass,githubactions,java,py,flutter,firebase" height="35px"/>
+    <img src="https://skillicons.dev/icons?i=styledcomponents,sass,githubactions,java,py,flutter,firebase" height="35px"/>
   </a>
 </p>
  
