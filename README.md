@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <a href="https://www.notion.so/HOME-325e1a5d317e4ef9b6555635368480f3?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=badge&logo=Notion&logoColor=black"/></a>
+  <a href="https://minsuhan.notion.so/"><img src="https://img.shields.io/badge/Notion-ffffff?style=badge&logo=Notion&logoColor=black"/></a>
   <a href="https://accurate-bank-c77.notion.site/77d0641302334acaa3937ca73b1482b7?v=38c9fd56abdf4bef97dde7d6a3925740"><img src="https://img.shields.io/badge/TIL-ffffff?style=badge&logo=Notion&logoColor=black"/></a>
   <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/minsuhan.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
   <a href="mailto:iamminsuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white"/></a>
