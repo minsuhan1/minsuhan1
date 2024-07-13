@@ -1,55 +1,36 @@
+## ✋🏻 Hi there
+My name is Minsu Han. I'm interested in and studying front-end web development.
 
-<p align="center"> My main skills are... </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
-  </a>
+<p>
+  <a href="https://velog.io/@minsuhan1">Blog</a> | <a href="https://minsuhan.notion.site/">Portfolio</a> | <a href="mailto:iamminsuhan@gmail.com">Email</a> | <a href="https://www.instagram.com/iamminsuhan/">Instagram</a>
 </p>
 
-<p align="center"> I have experience using... </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=styledcomponents,sass,githubactions,java,py,flutter,firebase" height="35px"/>
-  </a>
-</p>
- 
-<br>
-<div align="center">
-<p align="center">
-<a href="https://github.com/minsuhan1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minsuhan1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minsuhan1&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
-
-</div>
-
-
-<p align="center">
-  <a href="https://minsuhan.notion.site/"><img src="https://img.shields.io/badge/Notion-ffffff?style=badge&logo=Notion&logoColor=black"/></a>
-  <a href="https://velog.io/@minsuhan1"><img src="https://img.shields.io/badge/minsuhan.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
-  <a href="mailto:iamminsuhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white"/></a>
+<p>
   <a href="https://solved.ac/monologue96"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monologue96"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsuhan1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-<br>
 
-<!--
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width=75% height=75% />
-</div>
+## I am doing ...
+🌱 Naver Boostcamp Web·Mobile 9th Challenge (24.07~ ) <br>
 
-<!--
-**minsuhan1/minsuhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I can use ...
+<p>
+  <img src="https://img.shields.io/badge/Language-white?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Web Frontend-white?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-592E3E?style=flat-square&logo=zustand&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Infra-white?style=flat" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
