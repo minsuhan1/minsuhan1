@@ -12,7 +12,7 @@ I'm interested in and studying front-end web development.
 </p>
 
 ## I am doing ...
-🌱 Naver Boostcamp Web·Mobile 9th Challenge (24.07~ ) <br>
+🌱 네이버 커넥트재단 부스트캠프 웹・모바일 9기 챌린지 (24.07~ 24.08) <br>
 
 ## I can use ...
 <p>
