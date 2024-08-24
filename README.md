@@ -3,7 +3,9 @@ My name is Minsu Han. <br>
 I'm interested in and studying front-end web development.
 
 <p>
-  <a href="https://velog.io/@minsuhan1">Blog</a> | <a href="https://minsuhan.notion.site/">Portfolio</a> | <a href="mailto:iamminsuhan@gmail.com">Email</a>
+  <a href="https://velog.io/@minsuhan1">Blog</a> | 
+<!--   <a href="https://minsuhan.notion.site/">Portfolio</a> | -->
+  <a href="mailto:iamminsuhan@gmail.com">Email</a>
 </p>
 
 <p>
