@@ -13,11 +13,11 @@ I'm interested in and studying front-end web development.
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsuhan1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-## I am doing ...
-🌱 네이버 커넥트재단 부스트캠프 웹・모바일 9기 멤버십 (2024.08.19 ~ 진행중) <br>
+## Experiences
+🌱 네이버 커넥트재단 부스트캠프 웹・모바일 9기 멤버십 (2024.08.19 ~ 2024.12.06) <br>
 🌱 네이버 커넥트재단 부스트캠프 웹・모바일 9기 챌린지 (2024.07.15 ~ 2024.08.09) <br>
 
-## I can use ...
+## Tech stack
 <p>
   <img src="https://img.shields.io/badge/Language-white?style=flat" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
